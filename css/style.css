@@ -1,0 +1,26 @@
+@charset "UTF-8";
+h1{
+	color:hsla(50,100%,50%,1);
+}
+p{
+	color:rgba(0,0,0,1);
+	background-color:lightgreen;
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+p:first-of-type{
+color:#000000;
+
+}
